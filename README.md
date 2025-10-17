@@ -1,20 +1,24 @@
 <p style="text-align:center;font-size:46px;"> PHP Dev Template</p>
 
 ## About XXX
-- What's this?
+- Data Serializer
 
 ## Features
--
+- data serialize
 
 ## Usage
--
+```php
+use Zeus\Serializer;
+
+// Provider: default, igbinary, json, base64
+
+$data = Srerializer::serialize(data:$data, provider:'json');
+$data = Serializer::unserialize(data:$data, provider: 'json');
+```
 
 ## Installation
 - Install XXX with [Composer](https://getcomposer.org/)
-  - `composer require ext/xxxx`
-
-## Documentation
--
+  - `composer require ext/serializer`
 
 ## CHANGELOG
 See [CHANGELOG.md]()
