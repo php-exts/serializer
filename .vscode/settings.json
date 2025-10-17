@@ -1,6 +1,5 @@
 {
   "workbench.iconTheme": "vscode-icons",
-  "workbench.colorTheme": "Solarized Light",
   "editor.fontSize": 16,
   "files.autoSave": "onFocusChange",
   "gitlens.advanced.fileHistoryFollowsRenames": true,
@@ -36,8 +35,6 @@
   "[shellscript]": {
     "files.eol": "\n"
   },
-  // "http.proxy": "http://127.0.0.1:7890",
-  "tabnine.experimentalAutoImports": true,
   "json.maxItemsComputed": 200000,
   "editor.unicodeHighlight.invisibleCharacters": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
@@ -46,6 +43,5 @@
   "editor.insertSpaces": false,
   "editor.wordWrap": "on",
   "editor.snippetSuggestions": "top",
-  "vsicons.dontShowNewVersionMessage": true,
   "diffEditor.codeLens": true,
 }
