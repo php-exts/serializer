@@ -1,6 +1,6 @@
-<p style="text-align:center;font-size:46px;"> PHP Dev Template</p>
+<p style="text-align:center;font-size:46px;"> PHP Data Serializer</p>
 
-## About XXX
+## About
 - Data Serializer
 
 ## Features
